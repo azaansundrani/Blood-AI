@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imgs</folder>
+	<filename>malaria.jpeg</filename>
+	<path>/Users/azaansundrani/Desktop/Imgs/malaria.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Malaria</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>85</ymin>
+			<xmax>114</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>
