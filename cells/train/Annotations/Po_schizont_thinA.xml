@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imgs</folder>
+	<filename>Po_schizont_thinA.jpg</filename>
+	<path>/Users/azaansundrani/Desktop/Imgs/Po_schizont_thinA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Malaria</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>96</ymin>
+			<xmax>209</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>
